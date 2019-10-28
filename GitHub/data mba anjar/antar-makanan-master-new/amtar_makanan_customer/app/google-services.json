@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "582051894317",
     "firebase_url": "https://ojek-amanah.firebaseio.com",
-    "project_id": "ojek-amanah",
+    "project_id": "ojek-amanah-kita",
     "storage_bucket": "ojek-amanah.appspot.com"
   },
   "client": [
@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:582051894317:android:9c56cdc849d803c75fd4a4",
         "android_client_info": {
-          "package_name": "com.ojekamanah.appdriver"
+          "package_name": "com.ojekamanah.appdriver.driver"
         }
       },
       "oauth_client": [
